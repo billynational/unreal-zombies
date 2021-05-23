@@ -1,13 +1,6 @@
 # Unity Zombie Defence FPS Example
-This is the example of zombie defence fps game. Kill the zombies to obtain the cash and upgrade your weapon or buy powerful weapons!
+This is the first version the doyrms zombie defence fps game. Kill the nazi zombies to obtain the cash and upgrade your weapon or buy powerful weapons!
 
-Live Demo: [http://modernator.me:5001/](http://modernator.me:5001/)
-
-## Screenshots
-![screenshot1](screenshot1.png)
-![screenshot2](screenshot2.png)
-![screenshot3](screenshot3.png)
-![screenshot4](screenshot4.png)
 
 ## Features
 - Extended Standard FPSController: Recoil, Fixing Jump related glitches
@@ -62,9 +55,3 @@ That's because I remained unusing network related resources.
 ## Bugs & Improvements
 Please write the issue on the github page when you found bugs. But I have no plan to improve this game, because this game is just for demonstration.
 
-## Donate me
-All my tutorials and projects are made for help people who want to learn. Your donation make me keep doing this :)
-
-You can support my projects by donating me:
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PVXTU5FJNBLDS)
