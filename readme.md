@@ -1,5 +1,5 @@
 # Unity Zombie Defence FPS Example
-This is the first version the doyrms zombie defence fps game. Kill the nazi zombies to obtain the cash and upgrade your weapon or buy powerful weapons!
+This is the first version ----- zombie defence fps game. Kill the nazi zombies to obtain the cash and upgrade your weapon or buy powerful weapons!
 
 
 ## Features
